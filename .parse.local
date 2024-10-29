@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "ControlLavanderia": {
+      "applicationId": "44WStoAg94jkeW5hAO8hh886skVlXBqSs2I2RpjE"
+    },
+    "_default": {
+      "link": "ControlLavanderia"
+    }
+  }
+}
